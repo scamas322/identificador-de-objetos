@@ -1,0 +1,27 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #numberO
+{
+font-size: 18px;
+}
+body{
+    background-size:cover;
+    background-position:center;
+}
+canvas{
+    margin-top: 80px;
+    box-shadow: 10px 10px 10px gold;
+    border-radius:10px;
+}
+
+#status, #objectstatus
+{
+    font-size:15px;
+}
+
